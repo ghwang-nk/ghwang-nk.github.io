@@ -16,7 +16,7 @@ Email: ghwang.nk@gmail.com
 
 ### Journal
 
-X. Cui, H. Geng, *G. Wang*, Z. Wang, and C. Zou (2026). [ART: distribution-free and model-agnostic changepoint detection with finite-sample guarantees](https://doi.org/10.1093/jrsssb/qkag037) *Journal of the Royal Statistical Society Series B: Statistical Methodology*.
+X. Cui, H. Geng, *G. Wang*, Z. Wang, and C. Zou (2026). [ART: distribution-free and model-agnostic changepoint detection with finite-sample guarantees.](https://doi.org/10.1093/jrsssb/qkag037) *Journal of the Royal Statistical Society Series B: Statistical Methodology*.
 
 C. Qian, *G. Wang*, and C. Zou (2025). [Reliever: relieving the burden of costly model fits for changepoint detection.](https://jmlr.org/papers/v26/24-1108.html) *Journal of Machine Learning Research*, 26, 1−57.
 
@@ -26,11 +26,11 @@ L. Shi, *G. Wang*, and C. Zou (2024). [Low-rank matrix estimation in the presenc
 
 J. Cui, *G. Wang*, F. Song, X. Ma, and C. Zou (2025). [Robust multi-task regression with shifting low-rank patterns.](https://doi.org/10.1007/s10114-025-3362-8) *Acta Mathematica Sinica, English Series*, 41, 677--702.
 
-*G. Wang*, L. Feng, and P. Zhao (2024). [New approaches for testing slope homogeneity in large panel data models.](https://doi.org/10.1007/s40304-023-00371-5) *Communications in Mathematics and Statistics*.
-
 *G. Wang* and L. Feng (2023). [Computationally efficient and data-adaptive changepoint inference in high dimension.](https://doi.org/10.1093/jrsssb/qkad048) *Journal of the Royal Statistical Society Series B: Statistical Methodology*, 85, 936--958.
 
-J. Cui, *G. Wang*, C. Zou, and Z. Wang (2023). [Change-point testing for parallel data sets with FDR control.](https://doi.org/10.1016/j.csda.2023.107705) *Computational Statistics \& Data Analysis*, 182, 107705.
+*G. Wang*, L. Feng, and P. Zhao (2026). [New approaches for testing slope homogeneity in large panel data models.](https://doi.org/10.1007/s40304-023-00371-5) *Communications in Mathematics and Statistics*, 14, 45--75.
+
+J. Cui, *G. Wang*, C. Zou, and Z. Wang (2023). [Change-point testing for parallel data sets with FDR control.](https://doi.org/10.1016/j.csda.2023.107705) *Computational Statistics & Data Analysis*, 182, 107705.
 
 M. Wen, *G. Wang*, C. Zou, and Z. Wang (2024). [Activation discovery with FDR control: application to fMRI data.](https://doi.org/10.5705/ss.202022.0054) *Statistica Sinica*, 34, 1625--1647.
 
