@@ -16,7 +16,7 @@ Email: ghwang.nk@gmail.com
 
 ### Journal
 
-Y. Li, *G. Wang*, S. Xu, Z. Yu (2026). [Integral probability metric-guided CUSUM-net for nonparametric changepoint detection.](https://doi.org/10.1093/biomet/asag046) Biometrika.
+Y. Li, *G. Wang*, S. Xu, and Z. Yu (2026). [Integral probability metric-guided CUSUM-net for nonparametric changepoint detection.](https://doi.org/10.1093/biomet/asag046) *Biometrika*.
 
 X. Cui, H. Geng, *G. Wang*, Z. Wang, and C. Zou (2026). [ART: distribution-free and model-agnostic changepoint detection with finite-sample guarantees.](https://doi.org/10.1093/jrsssb/qkag037) *Journal of the Royal Statistical Society Series B: Statistical Methodology*.
 
@@ -54,7 +54,7 @@ A. Amiri, M. Koosha, A. Azhdari, and *G. Wang* (2015). [Phase I monitoring of ge
 
 ### Conference
 
-G. Hu, P. Menéndez, F. Liu, M. Gong, *G. Wang*, L. Peng. [FedReLa: imbalanced federated learning via re-labeling.](https://arxiv.org/abs/2606.26037) *ICML 2026.*
+G. Hu, P. Menéndez, F. Liu, M. Gong, *G. Wang*, and L. Peng. [FedReLa: imbalanced federated learning via re-labeling.](https://arxiv.org/abs/2606.26037) *ICML 2026.*
 
 G. Hu, F. Liu, M. Gong, *G. Wang*, and L. Peng. [Learning imbalanced data with beneficial label noise.](https://proceedings.mlr.press/v267/hu25p.html) *ICML 2025.*
 
