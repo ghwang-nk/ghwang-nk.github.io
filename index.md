@@ -20,7 +20,7 @@ Y. Yu, *G. Wang*, L. Liu, C. Zou (2026). [Model-agnostic and uncertainty-aware d
 
 J. Cui, G. Pan, *G. Wang*, and C. Zou (2025). [Simultaneous detection and localization of mean and covariance changes in high dimensions.](https://doi.org/10.48550/arXiv.2508.19523)
 
-C. Qian, *G. Wang*, Z. Wang, and C. Zou (2024). [Changepoint Detection in Complex Models: Cross-Fitting Is Needed.](https://doi.org/10.48550/arXiv.2411.07874)
+C. Qian, *G. Wang*, Z. Wang, and C. Zou (2024). [Changepoint detection in complex models: cross-fitting is needed.](https://doi.org/10.48550/arXiv.2411.07874)
 
 Y. Jia, J. Liu, *G. Wang*, Z. Wang, and C. Zou (2024). [TUNE: algorithm-agnostic inference after changepoint detection.](https://doi.org/10.48550/arXiv.2409.15676)
 
