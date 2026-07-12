@@ -12,6 +12,18 @@ My research interests include change-point detection, high-dimensional inference
 
 Email: ghwang.nk@gmail.com
 
+## Preprints
+
+Y. Yu, *G. Wang*, L. Liu, C. Zou (2026). [Model-agnostic and uncertainty-aware dimensionality reduction in supervised learning.](https://doi.org/10.48550/arXiv.2601.10357)
+
+*G. Wang*, M. Wen, C. Zou (2025). [Empirical likelihood meets prediction-powered inference.](https://doi.org/10.48550/arXiv.2512.16363)
+
+J. Cui, G. Pan, *G. Wang*, and C. Zou (2025). [Simultaneous detection and localization of mean and covariance changes in high dimensions.](https://doi.org/10.48550/arXiv.2508.19523)
+
+C. Qian, *G. Wang*, Z. Wang, and C. Zou (2024). [Changepoint Detection in Complex Models: Cross-Fitting Is Needed.](https://doi.org/10.48550/arXiv.2411.07874)
+
+Y. Jia, J. Liu, *G. Wang*, Z. Wang, and C. Zou (2024). [TUNE: algorithm-agnostic inference after changepoint detection.](https://doi.org/10.48550/arXiv.2409.15676)
+
 ## Publications
 
 ### Journal
