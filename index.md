@@ -20,6 +20,8 @@ Y. Li, *G. Wang*, S. Xu, and Z. Yu (2026). [Integral probability metric-guided C
 
 X. Cui, H. Geng, *G. Wang*, Z. Wang, and C. Zou (2026). [ART: distribution-free and model-agnostic changepoint detection with finite-sample guarantees.](https://doi.org/10.1093/jrsssb/qkag037) *Journal of the Royal Statistical Society Series B: Statistical Methodology*.
 
+T. Wang, *G. Wang*, Z. Wang, and C. Zou (2026). [Power enhancement of permutation-augmented partial-correlation tests via fixed-row permutations.](https://doi.org/10.1016/j.spl.2025.110591) *Statistics & Probability Letters*, 230, 110591.
+
 C. Qian, *G. Wang*, and C. Zou (2025). [Reliever: relieving the burden of costly model fits for changepoint detection.](https://jmlr.org/papers/v26/24-1108.html) *Journal of Machine Learning Research*, 26, 1−57.
 
 Y. Liu, Y. Jia, *G. Wang*, Z. Wang, and C. Zou (2026). [Prediction-powered model checking via predictiveness comparisons.](https://doi.org/10.1007/s11424-026-5075-1) *Journal of Systems Science and Complexity*, 39, 115--135.
@@ -54,10 +56,10 @@ A. Amiri, M. Koosha, A. Azhdari, and *G. Wang* (2015). [Phase I monitoring of ge
 
 ### Conference
 
-G. Hu, P. Menéndez, F. Liu, M. Gong, *G. Wang*, and L. Peng. [FedReLa: imbalanced federated learning via re-labeling.](https://arxiv.org/abs/2606.26037) *ICML 2026.*
+G. Hu, P. Menéndez, F. Liu, M. Gong, *G. Wang*, and L. Peng. [FedReLa: imbalanced federated learning via re-labeling.](https://arxiv.org/abs/2606.26037) *ICML 2026*.
 
-G. Hu, F. Liu, M. Gong, *G. Wang*, and L. Peng. [Learning imbalanced data with beneficial label noise.](https://proceedings.mlr.press/v267/hu25p.html) *ICML 2025.*
+G. Hu, F. Liu, M. Gong, *G. Wang*, and L. Peng. [Learning imbalanced data with beneficial label noise.](https://proceedings.mlr.press/v267/hu25p.html) *ICML 2025*.
 
-G. Chen, Y. Jia, *G. Wang*, and C. Zou. [Zipper: addressing degeneracy in algorithm-agnostic inference.](https://doi.org/10.52202/079017-2106) *NeurIPS 2024 (spotlight).*
+G. Chen, Y. Jia, *G. Wang*, and C. Zou. [Zipper: addressing degeneracy in algorithm-agnostic inference.](https://doi.org/10.52202/079017-2106) *NeurIPS 2024* (spotlight).
 
-H. Chen, Y. Jia, *G. Wang*, and C. Zou. [Uncertainty quantification for data-driven change-point learning via cross-validation.](https://doi.org/10.1609/aaai.v38i10.29008) *AAAI 2024.*
+H. Chen, Y. Jia, *G. Wang*, and C. Zou. [Uncertainty quantification for data-driven change-point learning via cross-validation.](https://doi.org/10.1609/aaai.v38i10.29008) *AAAI 2024*.
