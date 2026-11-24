@@ -14,11 +14,11 @@ Email: ghwang.nk@gmail.com
 
 ## Preprints
 
+*G. Wang*, L. Peng, L. Liu, C.Zou (2026). [Moment-calibrated conformal prediction with side information.](https://arxiv.org/abs/2610.15268)
+
 Y. Yu, *G. Wang*, L. Liu, C. Zou (2026). [Model-agnostic and uncertainty-aware dimensionality reduction in supervised learning.](https://doi.org/10.48550/arXiv.2601.10357)
 
 *G. Wang*, M. Wen, C. Zou (2025). [Empirical likelihood meets prediction-powered inference.](https://doi.org/10.48550/arXiv.2512.16363)
-
-J. Cui, G. Pan, *G. Wang*, and C. Zou (2025). [Simultaneous detection and localization of mean and covariance changes in high dimensions.](https://doi.org/10.48550/arXiv.2508.19523)
 
 C. Qian, *G. Wang*, Z. Wang, and C. Zou (2024). [Changepoint detection in complex models: cross-fitting is needed.](https://doi.org/10.48550/arXiv.2411.07874)
 
@@ -28,13 +28,15 @@ Y. Jia, J. Liu, *G. Wang*, Z. Wang, and C. Zou (2024). [TUNE: algorithm-agnostic
 
 ### Journal
 
-Y. Li, *G. Wang*, S. Xu, and Z. Yu (2026). [Integral probability metric-guided CUSUM-net for nonparametric changepoint detection.](https://doi.org/10.1093/biomet/asag046) *Biometrika*.
+J. Cui, G. Pan, *G. Wang*, and C. Zou (2026+). [Simultaneous detection and localization of mean and covariance changes in high dimensions.](https://doi.org/10.48550/arXiv.2508.19523) *IEEE Transactions on Information Theory*.
 
-X. Cui, H. Geng, *G. Wang*, Z. Wang, and C. Zou (2026). [ART: distribution-free and model-agnostic changepoint detection with finite-sample guarantees.](https://doi.org/10.1093/jrsssb/qkag037) *Journal of the Royal Statistical Society Series B: Statistical Methodology*.
+Y. Li, *G. Wang*, S. Xu, and Z. Yu (2026). [Integral probability metric-guided CUSUM-net for nonparametric changepoint detection.](https://doi.org/10.1093/biomet/asag046) *Biometrika*, 113, asag046.
+
+X. Cui, H. Geng, *G. Wang*, Z. Wang, and C. Zou (2026). [ART: distribution-free and model-agnostic changepoint detection with finite-sample guarantees.](https://doi.org/10.1093/jrsssb/qkag037) *Journal of the Royal Statistical Society Series B: Statistical Methodology*, 88, 1278--1302.
 
 T. Wang, *G. Wang*, Z. Wang, and C. Zou (2026). [Power enhancement of permutation-augmented partial-correlation tests via fixed-row permutations.](https://doi.org/10.1016/j.spl.2025.110591) *Statistics & Probability Letters*, 230, 110591.
 
-C. Qian, *G. Wang*, and C. Zou (2025). [Reliever: relieving the burden of costly model fits for changepoint detection.](https://jmlr.org/papers/v26/24-1108.html) *Journal of Machine Learning Research*, 26, 1−57.
+C. Qian, *G. Wang*, and C. Zou (2025). [Reliever: relieving the burden of costly model fits for changepoint detection.](https://jmlr.org/papers/v26/24-1108.html) *Journal of Machine Learning Research*, 26, 1−-57.
 
 Y. Liu, Y. Jia, *G. Wang*, Z. Wang, and C. Zou (2026). [Prediction-powered model checking via predictiveness comparisons.](https://doi.org/10.1007/s11424-026-5075-1) *Journal of Systems Science and Complexity*, 39, 115--135.
 
